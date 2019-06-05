@@ -1,0 +1,20 @@
+#1 creating the window
+#2 creating the CR
+#3.1 creating the Circles that are representing the men 
+#3.2 creating the Circles that are representing the women
+#4 creating the Text
+#5 if the user press the correct key it will procede to main function
+#6 is making both the men line and women line run simultaneously
+
+#7.1 is making the men1 men2 and men3 run simultaneously
+#7.1.1 getting the time it will take to go to the CR and then out
+#7.1.2 getting the time it will take to go to the CR and then out
+#7.1.3 getting the time it will take to go to the CR and then out
+
+#7.2 is making the women1 women2 and women3 run simultaneously
+#7.2.1 getting the time it will take to go to the CR and then out
+#7.2.2 getting the time it will take to go to the CR and then out
+#7.2.3 getting the time it will take to go to the CR and then out
+
+#8 sleep time
+#9 getting the random number
